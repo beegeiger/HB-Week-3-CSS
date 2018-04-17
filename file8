@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style type="text/css">
+    body {margin: 0;}
+
+    .background_box {
+  width: 900px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: #cccccc;
+  padding: 15px 10px;
+  align: center;
+}
+
+.box {
+  width: 180px;
+  height: 180px;
+  margin: left;
+  display: inline-block;
+  border: thick double #555555;
+}
+.circle {
+  border-radius: 50%;
+  border: dotted #555555;
+  border-width : 10px;
+  width: 180px;
+  height: 180px;
+  display: inline-block;
+  margin: 0px 160px;
+}
+.box2 {
+  width: 180px;
+  height: 180px;
+  margin: right;
+  display: inline-block;
+  border: thick double #555555;
+}
+
+    </style>
+  </head>
+
+  <body>
+ <div class= "background_box"><div class= "box"></div><div class= "circle"></div><div class= "box2"></div></div>   
+  </body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style type="text/css">
+     body {margin: 0;}
+      .shadowbox {
+  width: 500px;
+  height: 100px;
+  margin: 0px 0px;
+  background-color: black;
+}
+
+.shadowbox2 {
+  width: 500px;
+  height: 100px;
+  margin: 0px 0px;
+  background-color: red;
+}
+
+.shadowbox3 {
+  width: 500px;
+  height: 100px;
+  margin: 0px 0px;
+  background-color: #ffd700;
+}
+
+    </style>
+  </head>
+
+  <body>
+    <div class= "shadowbox"> </div>
+    <div class= "shadowbox2"> </div>
+    <div class= "shadowbox3"> </div>
+  </body>
+
+</html>

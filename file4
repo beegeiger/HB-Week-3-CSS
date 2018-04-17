@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style type="text/css">
+     body {margin: 0;}
+     
+      .box {
+  width: 100px;
+  height: 100px;
+  margin: 50px 50px;
+  background-color: black;
+  display: inline-block;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  margin: 50px 0px;
+  background-color: black; 
+  display: inline-block;
+}
+
+
+
+    </style>
+  </head>
+
+  <body>
+
+    <div class= "box"> </div>
+    <div class= "box2"> </div>
+ 
+  </body>
+
+</html>
